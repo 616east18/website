@@ -18,7 +18,7 @@ The building [faq](https://docs.google.com/document/d/1OM8FKmGDUCEzVSrLpT-ijzaWw
 
 The commonly used [forms](https://docs.google.com/document/d/1rbZD69nvsLS_sYuydxCtWUhtG3jz35jEQrWLVG_RkbU/edit?usp=sharing) folder has a list of documents used for building residents to request services with our management company.  
 
-For noise issues, we have a list of [noise guidelines](https://docs.google.com/document/d/14H1440xofoRbquG4s7SeOu5n0K2D5uZbIYG5xKadxL0/edit?usp=sharing) that can help work things out with your neighbors. 
+For noise issues, we have a list of [noise guidelines](https://docs.google.com/document/d/1GklC0HWIMansK_R218o8Sc4OaAIzdVY-laxBZMZJ4iI/edit) that can help work things out with your neighbors. 
 
 
 
