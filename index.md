@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Welcome to 616 east 18 Street
 
 This is the website for 616 East 18 Street in Brooklyn NY.  
