@@ -1,5 +1,6 @@
 ---
 layout: default
+title-heading: false
 ---
 
 ## Welcome to 616 east 18 Street
