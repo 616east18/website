@@ -1,9 +1,5 @@
 
 
-## Welcome to 616 east 18 Street
-
-This is the website for 616 East 18 Street in Brooklyn NY.  
-
 ### About the building 
 
 Built in 1963, 616 E18th St. is situated in historic Ditmas Park, just a couple of blocks away from the Newkirk Plaza and the Q and B trains, four blocks from Cortelyou Rd., and about 10 blocks south of Prospect Park.
